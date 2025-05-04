@@ -1,11 +1,11 @@
 # CRM-analysis-python
 
-## 🎯 Objective
+## Objective
 Acquire **1,000 cash-back credit card customers** by targeting the right segments with personalized marketing strategies and measuring the effectiveness using A/B testing.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project focuses on optimizing customer acquisition through data-driven segmentation and testing.
 
@@ -15,7 +15,7 @@ This project focuses on optimizing customer acquisition through data-driven segm
 
 ---
 
-## 🧪 Tools & Technologies
+## Tools & Technologies
 - Python (pandas, os, re)
 - Jupyter Notebooks
 
